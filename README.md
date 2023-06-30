@@ -1,4 +1,4 @@
-#  音方位センサ基板
+#  Sound Direction Sensor Board
 # Sound_Direction_Sensor
 This board detects the direction of sound with 4-pdm mems mic using GCC-PHAT algorithm.
 
