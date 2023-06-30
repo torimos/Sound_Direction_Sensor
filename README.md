@@ -63,7 +63,7 @@ This board detects the direction of sound with 4-pdm mems mic using GCC-PHAT alg
   * You can perform a software reset by entering rst! and pressing Enter.
   * In the example below, with a sound variation threshold of 1.0, the fourth value with a sound variation of 1.6 is detected as 206.6 degrees.
 
-	Sound Direction Sensor vX.X (ビルド日時)[\r\n]  
+	Sound Direction Sensor vX.X (Build date and time)[\r\n]  
 	Activity Threshold: 1.0[\r\n]  
 	Deg:-1.0,        DegOrg:201.8,   Act:0.69,[\r\n]  
 	Deg:-1.0,        DegOrg:0.0,     Act:0.71,[\r\n]  
